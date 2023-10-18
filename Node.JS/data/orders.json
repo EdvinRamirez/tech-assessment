@@ -1,0 +1,22 @@
+[
+    {
+        "OrderNumber" : "1",
+        "Product" : "Controller",
+        "CustomerPhoneNumber" : "2125551234"
+    },
+    {
+        "OrderNumber" : "2",
+        "Product" : "TV",
+        "CustomerPhoneNumber" : "2125554567"
+    },
+    {
+        "OrderNumber" : "3",
+        "Product" : "PlayStation",
+        "CustomerPhoneNumber" : "6781367092"
+    },
+    {
+        "OrderNumber" : "4",
+        "Product" : "Xbox",
+        "CustomerPhoneNumber" : "6781367092"
+    }
+]
